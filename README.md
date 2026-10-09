@@ -25,7 +25,7 @@ Specializing in building high-performance web applications, 3D web experiences, 
 ---
 
 ### ⚡ Key Highlights
-* **Pose Scanner:** Scan your body against a given pose and generates reports.
+* **Pose Scanner:** Scans your body using the browser's camera, instructing you to align against a given pose and generates reports.
 * **Real-Time Voice AI Agent:** A voice-driven interactive training agent prototype powered by WebSockets and Gemini Multimodal Live API.
 * **Conversationl AI Agent:** Onboarding rule-based ai chat agent for onboarding customers.
 * **AI-Powered Content Writer:** Audience-first keyword intelligence meets rank-ready copy.
