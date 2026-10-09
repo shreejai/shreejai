@@ -37,7 +37,7 @@ Specializing in building high-performance web applications, 3D web experiences, 
 
 ### 📬 Connect With Me
 
-* 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/shreejai)
+* 💼 **LinkedIn:** [linkedin.com/in/shreejai](https://linkedin.com/in/shreejai)
 * 🌐 **Portfolio:** [sjcodes.com](https://sjcodes.com)
 ---
 
