@@ -25,8 +25,10 @@ Specializing in building high-performance web applications, 3D web experiences, 
 ---
 
 ### ⚡ Key Highlights
-* **Real-Time Voice AI Agent:** Built a voice-driven interactive training agent prototype powered by WebSockets and Gemini Multimodal Live API.
+* **Pose Scanner:** Scan your body against a given pose and generates reports.
+* **Real-Time Voice AI Agent:** A voice-driven interactive training agent prototype powered by WebSockets and Gemini Multimodal Live API.
 * **Conversationl AI Agent:** Onboarding rule-based ai chat agent for onboarding customers.
+* **AI-Powered Content Writer:** Audience-first keyword intelligence meets rank-ready copy.
 * **Property Tech:** Working on a range of new microfrontends as well as microservices and revamp of a real estate engine - created a custom administrative AI parser tool to streamline listing updates directly from messages.
 * **Design Systems:** Developed reusable custom component libraries and drag-and-drop page builders.
 
