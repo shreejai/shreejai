@@ -1,15 +1,15 @@
 # Hi there, I'm Shreejai 👋
 
 **Full-Stack Software Engineer** based in Sydney, Australia 🇦🇺  
-Specializing in building high-performance web applications, 3D web experiences, and AI agentic solutions.
+Specializing in high-performance web applications, scalable back-end systems, interactive 3D web experiences, and AI agentic solutions.
 
 ---
 
 ### 🚀 What I Do
-* 💻 **Frontend Architecture:** Crafting slick, responsive UIs with **React, Next.js, TypeScript, and Tailwind CSS**.
-* 🌐 **3D Web & Interactive Experiences:** Experimenting with **React Three Fiber, Three.js, and GSAP** to bring web spaces to life.
-* 🤖 **AI Agents & Integrations:** Building real-time conversational agents, no-code AI platforms, and multimodal AI prototypes using the **Gemini API, OpenAI & WebSockets**.
-* ⚙️ **Backend & Tooling:** Designing robust full-stack features with **Node.js**, custom parsers, and component systems.
+- ⚙️ **Full-Stack & Systems Architecture:** Engineering end-to-end applications using **TypeScript, React, Next.js, and Node.js**, featuring cursor-based pagination, UI virtualization, and optimized database/API patterns.
+- 💻 **Frontend Architecture & Design Systems:** Crafting slick, responsive UIs, custom component libraries, and drag-and-drop page builders with **React, Next.js, and Tailwind CSS**.
+- 🤖 **AI Agents & Optimization:** Building real-time conversational agents, no-code AI platforms, and modular helper workflows designed to minimize token costs and execute calls efficiently.
+- 🌐 **3D Web & Interactive Experiences:** Developing interactive web spaces and custom models using **React Three Fiber, Three.js, and GSAP**.
 
 ---
 
@@ -17,28 +17,30 @@ Specializing in building high-performance web applications, 3D web experiences, 
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | TypeScript, JavaScript, HTML5, CSS3, SQL |
-| **Frameworks & Libraries** | React, Next.js, Node.js, Tailwind CSS, React Three Fiber, Three.js, GSAP |
-| **AI & Automation** | Gemini API, Conversational Agents, Custom Parsers |
-| **Development Environment** | Cursor, VS Code, Git, macOS |
+| **Languages** | TypeScript, JavaScript, SQL, HTML5, CSS3 |
+| **Full-Stack & Frameworks** | React, Next.js, Node.js, REST APIs, Virtualization, Tailwind CSS |
+| **3D & Graphics** | React Three Fiber, Three.js, GSAP |
+| **AI & Real-Time** | Gemini Multimodal Live API, WebSockets, Conversational Agents, Custom Parsers |
+| **Tools & Environment** | Cursor, VS Code, Git, macOS |
 
 ---
 
 ### ⚡ Key Highlights
-* **Pose Scanner:** Scans your body using the browser's camera, instructing you to align against a given pose and generates reports.
-* **Real-Time Voice AI Agent:** A voice-driven interactive training agent prototype powered by WebSockets and Gemini Multimodal Live API.
-* **Conversationl AI Agent:** Onboarding rule-based ai chat agent for onboarding customers.
-* **3D Fitness:** An experimental 3D lego figure to highlight different muscle groups of the body.
-* **AI-Powered Content Writer:** Audience-first keyword intelligence meets rank-ready copy.
-* **Property Tech:** Working on a range of new microfrontends as well as microservices and revamp of a real estate engine - created a custom administrative AI parser tool to streamline listing updates directly from messages.
-* **Design Systems:** Developed reusable custom component libraries and drag-and-drop page builders.
+- **Property Tech Engine:** Architected microservices, microfrontends, and backend revamps for real estate platforms; engineered a custom AI parser tool to streamline listing updates from incoming communications.
+- **Real-Time Voice AI Agent:** Built an interactive, voice-driven training agent prototype utilizing WebSockets and the Gemini Multimodal Live API.
+- **Pose Scanner:** Browser-based body scanning tool using device camera inputs to evaluate poses and generate real-time visual reports.
+- **Rule-Based Conversational Agent:** Designed and deployed interactive customer onboarding workflows.
+- **3D Interactive Fitness Model:** Built an experimental 3D figure using React Three Fiber to visually isolate and highlight muscle groups.
+- **AI Content Platform:** Audience-first keyword intelligence tool combined with rank-ready copy generation.
+- **Design Systems & Builders:** Developed reusable component libraries and drag-and-drop page builder systems.
 
 ---
 
 ### 📬 Connect With Me
 
-* 💼 **LinkedIn:** [linkedin.com/in/shreejai](https://linkedin.com/in/shreejai)
-* 🌐 **Portfolio:** [sjcodes.com](https://sjcodes.com)
+- 💼 **LinkedIn:** [linkedin.com/in/shreejai](https://linkedin.com/in/shreejai)
+- 🌐 **Portfolio:** [sjcodes.com](https://sjcodes.com)
+
 ---
 
-⭐️ *Always open to collaborating on innovative AI products, open-source web tools, and creative 3D web projects!*
+⭐️ *Always open to collaborating on full-stack systems, innovative AI products, open-source tools, and creative 3D web projects!*
